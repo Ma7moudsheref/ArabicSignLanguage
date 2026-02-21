@@ -1,0 +1,10 @@
+streamlit
+opencv-python-headless
+mediapipe
+numpy
+xgboost
+scikit-learn
+arabic-reshaper
+python-bidi
+Pillow
+requests
